@@ -44,7 +44,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing
                     elit. Amet illo maxime fugiat
                 </p>
-                <a href="#nosotros" class="boton boton-rojo">Ver mas</a>
+                <a href="https://wa.me/573504180438?text=Me%20interesa%20comprar%20%20deseo%20ver%20catalogo%20de%20productos" class="boton boton-rojo">Hablemos <i class="fab fa-whatsapp"></i></a>
             </div>
         </section>
         <section id="nosotros" class="seccion">
@@ -247,18 +247,23 @@
                     </h3>
                     <ul class="redes">
                         <li>
-                            <a href="#">
+                            <a href="https://www.facebook.com/">
                                 <i class="fab fa-facebook-square"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.instagram.com/">
                                 <i class="fab fa-instagram-square"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.twitter.com/">
                                 <i class="fab fa-twitter-square"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://wa.me/573504180438?text=Me%20interesa%20comprar%20deseo%20ver%20catalogo%20de%20productos">
+                            <i class="fab fa-whatsapp-square"></i>
                             </a>
                         </li>
                     </ul>
