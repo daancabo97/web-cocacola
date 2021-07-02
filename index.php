@@ -99,7 +99,7 @@
                     <div class="columna columna-33 columna-mobile-100">
                         <div class="bloque-servicio">
                             <div class="bloque-img-servicio cuadrado-perfecto">
-                                <img src="img/servicio3.jpg" alt="">
+                                <img src="img/servicio1.jpg" alt="">
                             </div>
                             <div class="bloque-contenido-servicio">
                                 <h3>Servicio 3</h3>
@@ -110,6 +110,60 @@
                                     iditate sunt? Dolorum, neque perspici
                                     atis nesciunt impedit animi perferend
                                     is aperiam quo.</p>
+                                <a href="#" class="boton boton-blanco">Ver mas</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="columna columna-33 columna-mobile-100">
+                        <div class="bloque-servicio">
+                            <div class="bloque-img-servicio cuadrado-perfecto">
+                                <img src="img/servicio1.jpg" alt="">
+                            </div>
+                            <div class="bloque-contenido-servicio">
+                                <h3>Servicio 4</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Dolores, labore qu
+                                    aerat, numquam doloribus voluptatum
+                                    saepe reiciendis unde iusto velit cup
+                                    iditate sunt? Dolorum, neque perspici
+                                    atis nesciunt impedit animi perferend
+                                    is aperiam quo.</p>
+                                <a href="#" class="boton boton-blanco">Ver mas</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="columna columna-33 columna-mobile-100">
+                        <div class="bloque-servicio">
+                            <div class="bloque-img-servicio cuadrado-perfecto">
+                                <img src="img/servicio1.jpg" alt="">
+                            </div>
+                            <div class="bloque-contenido-servicio">
+                                <h3>Servicio 5</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Dolores, labore qu
+                                    aerat, numquam doloribus voluptatum
+                                    saepe reiciendis unde iusto velit cup
+                                    iditate sunt? Dolorum, neque perspici
+                                    atis nesciunt impedit animi perferend
+                                    is aperiam quo.</p>
+                                <a href="#" class="boton boton-blanco">Ver mas</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="columna columna-33 columna-mobile-100">
+                        <div class="bloque-servicio">
+                            <div class="bloque-img-servicio cuadrado-perfecto">
+                                <img src="img/servicio3.jpg" alt="">
+                            </div>
+                            <div class="bloque-contenido-servicio">
+                                <h3>Servicio 6</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Dolores, labore qu
+                                    aerat, numquam doloribus voluptatum
+                                    saepe reiciendis unde iusto velit cup
+                                    iditate sunt? Dolorum, neque perspici
+                                    atis nesciunt impedit animi perferend
+                                    is aperiam qu.</p>
                                 <a href="#" class="boton boton-blanco">Ver mas</a>
                             </div>
                         </div>
